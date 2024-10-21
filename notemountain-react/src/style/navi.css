@@ -1,0 +1,13 @@
+.appbar-dark {
+    background-color: #181818 !important;
+    color: white !important
+}
+
+.appbar-light {
+    background-color: #fff !important;
+    color: black !important
+}
+
+.main-header-text:hover {
+    cursor: pointer;
+}

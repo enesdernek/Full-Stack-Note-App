@@ -1,0 +1,4 @@
+.log-in-navigate-link:hover {
+    color: red !important;
+    transition: 0.1s;
+}

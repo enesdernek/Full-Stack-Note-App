@@ -1,0 +1,8 @@
+.sign-in-navigate-link:hover {
+    color: red !important;
+    transition: 0.1s
+}
+
+.a {
+    color: rgb(228, 228, 39)
+}

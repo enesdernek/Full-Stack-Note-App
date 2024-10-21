@@ -1,0 +1,15 @@
+.add-card:hover {
+    background-color: greenyellow;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.noteListBar-dark {
+    background-color: #181818 !important;
+    color: white !important
+}
+
+.noteListBar-light {
+    background-color: rgb(247, 247, 247) !important;
+    color: black !important
+}

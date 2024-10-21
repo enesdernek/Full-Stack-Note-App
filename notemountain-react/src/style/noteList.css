@@ -1,0 +1,14 @@
+.list-dark {
+    background-color: #181818;
+    color: white
+}
+
+.list-light {
+    background-color: rgb(247, 247, 247);
+    color: black
+}
+
+#add-note-list-button {
+    background-color: rgb(6, 175, 6);
+
+}
