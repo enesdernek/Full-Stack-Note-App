@@ -13,4 +13,4 @@ Full Stack Note creating, deleting, updating application with Firebase Authentic
 
 - Java Version 17
 - Node.js
-- MySQL database and created database named "Notemountain"
+- MySQL database and created database named "notemountain"
